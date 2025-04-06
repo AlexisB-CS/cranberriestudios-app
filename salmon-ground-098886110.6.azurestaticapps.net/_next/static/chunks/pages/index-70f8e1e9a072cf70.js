@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[332],{2936:(e,n,r)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return r(9287)}])},9287:(e,n,r)=>{"use strict";r.r(n),r.d(n,{default:()=>u});var _=r(7876);function u(){return(0,_.jsx)("h1",{children:"Welcome to Cranberrie Studios"})}}},e=>{var n=n=>e(e.s=n);e.O(0,[636,593,792],()=>n(2936)),_N_E=e.O()}]);
